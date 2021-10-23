@@ -1,9 +1,9 @@
 ## Olá! Me chamo Danimar Costa 👋
 <div align="center">
   <a href="https://github.com/danimarcosta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanimarCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanimarCosta&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DanimarCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanimarCosta&layout=compact&langs_count=7&theme=dracula"/>
+</div
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
